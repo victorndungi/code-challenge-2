@@ -1,5 +1,5 @@
-
 **Shopping List Application - README.md**
+
 This document describes a simple interactive shopping list application created using HTML, CSS, and JavaScript.
 
 **Features**
